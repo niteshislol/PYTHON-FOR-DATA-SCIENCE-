@@ -1,1 +1,0 @@
-﻿Extended NumPy notes with examples
